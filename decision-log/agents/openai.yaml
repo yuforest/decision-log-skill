@@ -1,0 +1,4 @@
+interface:
+  display_name: "Decision Log"
+  short_description: "Capture durable engineering decisions in Git."
+  default_prompt: "Record this decision in the repository decision log."

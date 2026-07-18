@@ -1,0 +1,9 @@
+{
+  "name": "decision-log-skill",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check scripts/decision-log.mjs && node --test"
+  }
+}
